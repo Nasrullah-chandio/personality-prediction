@@ -1,9 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Personality Type Predictor</title>
-</head>
+
 <body>
 
 <h1>Personality Type Predictor (Introvert vs. Extrovert)</h1>
