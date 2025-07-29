@@ -13,3 +13,9 @@ __pycache__/
 
 # Jupyter notebook checkpoints
 .ipynb_checkpoints/
+
+# CatBoost training logs
+catboost_info/
+*.tsv
+*.json
+
