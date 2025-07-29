@@ -8,8 +8,6 @@ __pycache__/
 # VS Code settings
 .vscode/
 
-# Environment variables or secrets
-.env
 
 # Jupyter notebook checkpoints
 .ipynb_checkpoints/
@@ -18,4 +16,6 @@ __pycache__/
 catboost_info/
 *.tsv
 *.json
+
+
 
